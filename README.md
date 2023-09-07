@@ -1,7 +1,8 @@
 # fork-pull_request
 this repo is sample repo for 그루 to practice fork
+
 # add a new comment  
-  
+
 ### 리뷰어(push 한 사람) : 송민찬
 
 # 테슬라, 자율주행훈련용 AI 컴퓨팅 클러스터 선보여
@@ -13,5 +14,6 @@ this repo is sample repo for 그루 to practice fork
 -------------------------------------------------   
 
 ### 테슬라가 완전자율주행 기술을 더 빠르게 교육하기 위해 AI 컴퓨팅 클러스터를 선보인다.
+
 
 ### [기사 링크 ](https://www.hankyung.com/article/202308309256i)
