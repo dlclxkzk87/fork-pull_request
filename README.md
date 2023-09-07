@@ -1,2 +1,3 @@
 # first-repository
-## git confgi
+## git config
+start
